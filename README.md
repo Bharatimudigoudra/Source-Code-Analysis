@@ -46,6 +46,7 @@ open up localhost:
 
 - Python
 - LangChain
+- langchain_community
 - LangChain_groq
 - Flask
 - OpenAI
